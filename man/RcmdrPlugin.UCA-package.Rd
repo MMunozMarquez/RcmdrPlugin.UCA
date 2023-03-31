@@ -18,18 +18,22 @@
 \tabular{ll}{
 Package: \tab RcmdrPlugin.UCA\cr
 Type: \tab Package\cr
-Version: \tab 4.4-1\cr
-Date: \tab 2021-11-22\cr
+Version: \tab 6.1-1\cr
+Date: \tab 2023-03-30\cr
 License: \tab GPL version 3 or newer\cr
 }
 }
 
 \examples{
-# Examples of use are provided in the help of each option of menu.
+# Examples of use are provided in the help of each menu option.
 }
 
 \author{
-Manuel Munoz-Marquez <manuel.munoz@uca.es>
+  \itemize{
+    \item Manuel Munoz-Marquez <manuel.munoz@uca.es>
+    \item Fernando Fernández Palacín <fernando.fernandez@uca.es>
+    \item Rocío Gómez Molinero <rocio.gomez@uca.es>: Psychometry section.
+  }
 }
 
 \keyword{package}
