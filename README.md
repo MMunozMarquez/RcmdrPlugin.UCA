@@ -22,6 +22,7 @@ Some extension to Rcmdr ([R Commander](https://socialsciences.mcmaster.ca/jfox/M
  - Prediction using active model
  - Randomness test
  - Quality control: First and second phase graphs of pareto, p, np, c, u, xbar, R and S, from the data and from the parameters.
+ - Psychometry: Dificulty index, biserial correlations, Cronbach's alpha, Spearman-Brown coefficient, Guttman coefficient,...
 
 to teach statistics in a first university course made by R-UCA project and used at University of Cadiz (UCA).
 
@@ -40,6 +41,7 @@ Algunas extensiones a Rcmdr ([R Commander](https://socialsciences.mcmaster.ca/jf
  - Realizar predicciones usando el modelo activo
  - Test de aleatoriedad
  - Control de calidad: Gráficos de pareto, p, np, c, u, xbar, R y S de primera y segunda fase, desde los datos y desde los parámetros.
+ - Psicometría: Índice de dificultad, correlaciones biseriales, alpha de Cronbach, coeficiente de Spearman-Brown, coeficiente de Guttman,...
 
 para la enseñanza de un primer curso universitario en estadística hechas por el proyecto R-UCA y usadas en la Universidad de Cádiz (UCA).
 
